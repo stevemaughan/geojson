@@ -12783,8 +12783,8 @@
         "Sales 2019": 45047345,
         "Potential Value": 46276801.171875,
         "Calls": 904,
-        "fill-opacity": "#BC80BD",
-        "fill": 0.5,
+        "fill-opacity": 0.5,
+        "fill": "#BC80BD",
         "stroke": "#966697",
         "stroke-width": 2,
         "stroke-opacity": 1
